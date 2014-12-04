@@ -10,7 +10,7 @@ The repository contains 4 R scripts plot1.R, plot2.R, plot3.R and plot4.R which 
 
 The repository also contains the output of running the aforementioned 4 R scripts: 4 PNG files named plot1.png, plot2.png, plot3.png and plot4.png.
 
-For the script to work, the following input file is needed path is relative to R working folder):
+For the script to work, the following input file is needed (path is relative to R working folder):
 * household_power_consumption.txt
 
 ## The plots
